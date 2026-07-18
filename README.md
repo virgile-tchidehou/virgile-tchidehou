@@ -82,5 +82,5 @@ My long-term vision is to become an Embedded Systems Engineer, contribute to inn
 ## 🤝 Let's Connect
 
 - LinkedIn: [Your LinkedIn]
-- Portfolio: [https://tdv-tech.vercel.app]
-- Email: [tchidehoudojivirgile@gmail.com]
+- Portfolio: https://tdv-tech.vercel.app
+- Email: tchidehoudojivirgile@gmail.com
