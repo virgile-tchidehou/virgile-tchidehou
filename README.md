@@ -1,86 +1,65 @@
-# Hi, I'm Dodji Virgile Tchidehou 👋
+# Dodji Virgile TCHIDEHOU
 
-🎓 Industrial Computing & Maintenance Engineer  
-🌐 Embedded Systems & IoT Enthusiast  
-🤖 Robotics and Intelligent Systems Explorer  
+**Industrial Computing & Maintenance graduate** focused on embedded systems, IoT and robotics.
 
-I am a young engineer passionate about designing intelligent connected systems that combine hardware, software, and automation.
+[![Portfolio](https://img.shields.io/badge/Portfolio-tdv--tech.vercel.app-008FA6?style=flat-square&logo=vercel&logoColor=white)](https://tdv-tech.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-virgile--tchidehou-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/virgile-tchidehou)
+[![Email](https://img.shields.io/badge/Email-Contact_me-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:tchidehoudodjivirgile@gmail.com)
 
-My goal is to develop innovative technologies at the intersection of:
-- Embedded Systems
-- Internet of Things (IoT)
-- Robotics
-- Artificial Intelligence
-- Industrial Automation
+## About me
 
----
+I design connected systems across mechanics, electronics, real-time firmware and IoT supervision. I am particularly interested in reliable cyber-physical systems that address practical challenges in agriculture, energy and industry.
 
-## 🚀 Engineering Projects
+- Graduate in Industrial Computing & Maintenance from UCAO-UUC
+- Ranked 2nd out of 25 with a final average of 16.43/20 and highest honours
+- Technical experience with ESP32, FreeRTOS, MQTT, PCB design and industrial maintenance
+- Currently deepening my knowledge of embedded C/C++, Embedded Linux, ROS 2 and Edge AI
+- Preparing for an international Master's programme in embedded systems, IoT or robotics
 
-### 🌱 SMART-SOJA
+## Featured projects
 
-An autonomous IoT-based mobile unit designed for soybean pre-processing.
+### SMART-SOJA
 
-This project combines:
-- Embedded systems (ESP32)
-- Sensors and data acquisition
-- MQTT communication
-- IoT monitoring
-- Solar energy autonomy
-- Industrial automation
+Mobile, autonomous and connected soybean pre-processing unit developed as my final-year project.
 
-The objective is to design accessible and intelligent solutions adapted to real-world challenges.
+I led the technical architecture and worked on the SolidWorks mechanical design, KiCad electronics and PCB, ESP32/C++ firmware, FreeRTOS architecture, GRAFCET control logic, MQTT/JSON communication, Node.js backend and web dashboard.
 
----
+[View the SMART-SOJA case study](https://tdv-tech.vercel.app/en/projects/smart-soja/)
 
-## 🛠️ Technical Interests
+### Tekbot Robotics Challenge 2025
 
-### Embedded Systems
-- C/C++
-- Microcontrollers
-- ESP32
-- Real-Time Systems
-- Embedded Linux
+Team leader and electronics contributor for Team UCAO-TECH, a finalist in the international robotics competition. My work included team coordination and contributions involving the MPU6050, I²C communication, a black box, a motorised seven-segment display and an intelligent sorting conveyor.
 
-### IoT & Connected Systems
-- MQTT
-- Sensor networks
-- Cloud IoT
-- Edge Computing
+[Read the team documentation](https://tekbot-robotics-challenge.github.io/2025-Team-UCAO-TECH-Docs/)
 
-### Robotics & AI
-- ROS2
-- Autonomous systems
-- Computer vision
-- Edge AI / TinyML
+### SMART-FOREST
 
-### Software Engineering
-- Python
-- JavaScript / TypeScript
-- Next.js
-- Node.js
-- Docker
+Personal R&D project exploring a compact autonomous reforestation rover through distributed architecture, mobile robotics, simulation and digital-twin concepts. The mission logic has been evaluated in simulation; the physical prototype remains future work.
 
----
+## Technical stack
 
-## 📚 Currently Learning
+### Embedded systems and electronics
 
-- Advanced C/C++
-- Linux Embedded Systems
-- ROS2 and Robotics Frameworks
-- Edge AI
-- Industrial Communication Protocols
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
+![FreeRTOS](https://img.shields.io/badge/FreeRTOS-00979D?style=flat-square)
+![Arduino](https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white)
+![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=flat-square&logo=kicad&logoColor=white)
 
----
+### IoT and software
 
-## 🎯 Vision
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-My long-term vision is to become an Embedded Systems Engineer, contribute to innovative technological projects worldwide, and create impactful technology solutions addressing challenges in emerging markets.
+### Design, automation and diagnostics
 
----
+`SolidWorks` · `GRAFCET` · `Ladder` · `I²C` · `UART` · `SPI` · `PCB design` · `Electronic diagnostics` · `Solar systems`
 
-## 🤝 Let's Connect
+## Current direction
 
-- LinkedIn: [Dodji Virgile Tchidehou](https://www.linkedin.com/in/dodji-virgile-tchidehou-b1612b347/)
-- Portfolio: https://tdv-tech.vercel.app
-- Email: tchidehoudojivirgile@gmail.com
+My goal is to build a strong scientific and industrial foundation in embedded and cyber-physical systems, contribute to international research and engineering projects, and develop robust technologies adapted to real-world needs in Africa and beyond.
