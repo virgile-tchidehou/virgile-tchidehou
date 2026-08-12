@@ -1,2 +1,7 @@
-/smart-soja/
-/embedded-systems-lab/
+# This repository is only used for the GitHub profile README.
+# Ignore every root-level item by default, then allow the profile files.
+/*
+!/.gitignore
+!/README.md
+!/assets/
+!/assets/**

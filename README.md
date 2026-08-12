@@ -1,10 +1,19 @@
-# Dodji Virgile TCHIDEHOU
+<p align="center">
+  <img src="./assets/github-profile-banner.png" alt="Dodji Virgile TCHIDEHOU — Junior embedded systems and IoT designer" width="100%">
+</p>
 
-**Industrial Computing & Maintenance graduate** focused on embedded systems, IoT and robotics.
+<h1 align="center">Hi, I'm Dodji Virgile TCHIDEHOU</h1>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-tdv--tech.vercel.app-008FA6?style=flat-square&logo=vercel&logoColor=white)](https://tdv-tech.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-virgile--tchidehou-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/virgile-tchidehou)
-[![Email](https://img.shields.io/badge/Email-Contact_me-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:tchidehoudodjivirgile@gmail.com)
+<p align="center">
+  <strong>Industrial Computing &amp; Maintenance graduate</strong><br>
+  Embedded systems · Electronics · Real-time firmware · IoT · Automation
+</p>
+
+<p align="center">
+  <a href="https://tdv-tech.vercel.app"><img src="https://img.shields.io/badge/Portfolio-tdv--tech.vercel.app-008FA6?style=flat-square&amp;logo=vercel&amp;logoColor=white" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/virgile-tchidehou"><img src="https://img.shields.io/badge/LinkedIn-virgile--tchidehou-0A66C2?style=flat-square&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:tchidehoudodjivirgile@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_me-EA4335?style=flat-square&amp;logo=gmail&amp;logoColor=white" alt="Email"></a>
+</p>
 
 ## About me
 
