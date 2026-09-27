@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="./assets/github-profile-banner.png" alt="Dodji Virgile TCHIDEHOU — Junior embedded systems and IoT designer" width="100%">
+  <img src="./assets/github-profile-banner.png" alt="Dodji Virgile TCHIDEHOU — Embedded systems, IoT and robotics" width="100%">
 </p>
 
 <h1 align="center">Hi, I'm Dodji Virgile TCHIDEHOU</h1>
 
 <p align="center">
   <strong>Industrial Computing &amp; Maintenance graduate</strong><br>
-  Embedded systems · Electronics · Real-time firmware · IoT · Automation
+  Embedded systems · Electronics · RTOS · IoT · Robotics · Cyber-physical systems
 </p>
 
 <p align="center">
@@ -17,33 +17,39 @@
 
 ## About me
 
-I design connected systems across mechanics, electronics, real-time firmware and IoT supervision. I am particularly interested in reliable cyber-physical systems that address practical challenges in agriculture, energy and industry.
+I build connected systems at the intersection of electronics, real-time firmware, IoT and robotics. I am especially interested in reliable cyber-physical systems for agriculture, energy and industrial applications.
 
 - Graduate in Industrial Computing & Maintenance from UCAO-UUC
 - Ranked 2nd out of 25 with a final average of 16.43/20 and highest honours
-- Technical experience with ESP32, FreeRTOS, MQTT, PCB design and industrial maintenance
-- Currently deepening my knowledge of embedded C/C++, Embedded Linux, ROS 2 and Edge AI
-- Preparing for an international Master's programme in embedded systems, IoT or robotics
+- Hands-on experience with ESP32, FreeRTOS, MQTT, PCB design, automation and industrial maintenance
+- Currently going deeper into embedded C/C++, RTOS, Embedded Linux, ROS 2 and Edge AI
+- Preparing for an international Master's programme in embedded systems, mechatronics or robotics
 
-## Featured projects
+## Selected engineering work
 
-### SMART-SOJA
+### 🌱 [SMART-SOJA](https://github.com/virgile-tchidehou/smart-soja)
 
-Mobile, autonomous and connected soybean pre-processing unit developed as my final-year project.
+Mobile and connected soybean pre-processing unit co-developed as my final-year engineering project.
 
-I led the technical architecture and worked on the SolidWorks mechanical design, KiCad electronics and PCB, ESP32/C++ firmware, FreeRTOS architecture, GRAFCET control logic, MQTT/JSON communication, Node.js backend and web dashboard.
+My work focused on the technical architecture, SolidWorks mechanical design, KiCad electronics and PCB, ESP32/C++ firmware, FreeRTOS task architecture, GRAFCET control logic, MQTT/JSON communication, backend integration and monitoring interface.
 
-[View the SMART-SOJA case study](https://tdv-tech.vercel.app/en/projects/smart-soja/)
+[Project case study](https://tdv-tech.vercel.app/en/projects/smart-soja/)
 
-### Tekbot Robotics Challenge 2025
+### ⚙️ [Embedded Systems Lab](https://github.com/virgile-tchidehou/embedded-systems-lab)
 
-Team leader and electronics contributor for Team UCAO-TECH, a finalist in the international robotics competition. My work included team coordination and contributions involving the MPU6050, I²C communication, a black box, a motorised seven-segment display and an intelligent sorting conveyor.
+A structured hands-on laboratory where I document experiments in embedded C/C++, ESP32, FreeRTOS, peripherals, communication protocols and reusable drivers.
 
-[Read the team documentation](https://tekbot-robotics-challenge.github.io/2025-Team-UCAO-TECH-Docs/)
+Current work includes GPIO, ADC, PWM, MQTT and FreeRTOS primitives such as tasks, queues, semaphores, mutexes, event groups and software timers.
 
-### SMART-FOREST
+### 📡 [IoT Platform Lab](https://github.com/virgile-tchidehou/iot-platform-lab)
 
-Personal R&D project exploring a compact autonomous reforestation rover through distributed architecture, mobile robotics, simulation and digital-twin concepts. The mission logic has been evaluated in simulation; the physical prototype remains future work.
+A companion laboratory focused on the path from embedded devices to connected platforms: MQTT, TLS, QoS, retained messages, Last Will, HTTP, WebSockets and device-to-cloud architectures.
+
+### 🤖 Tekbot Robotics Challenge 2025
+
+Team leader and electronics contributor for Team UCAO-TECH. My work included team coordination and contributions around embedded electronics, I²C communication, sensing, actuation and robotic subsystems.
+
+[Team documentation](https://tekbot-robotics-challenge.github.io/2025-Team-UCAO-TECH-Docs/)
 
 ## Technical stack
 
@@ -65,10 +71,12 @@ Personal R&D project exploring a compact autonomous reforestation rover through 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-### Design, automation and diagnostics
+### Engineering tools and methods
 
 `SolidWorks` · `GRAFCET` · `Ladder` · `I²C` · `UART` · `SPI` · `PCB design` · `Electronic diagnostics` · `Solar systems`
 
 ## Current direction
 
-My goal is to build a strong scientific and industrial foundation in embedded and cyber-physical systems, contribute to international research and engineering projects, and develop robust technologies adapted to real-world needs in Africa and beyond.
+**Embedded C/C++ → RTOS → Embedded Linux → ROS 2 → Edge AI**
+
+My goal is to deepen my scientific and industrial foundations in embedded and cyber-physical systems and build robust technologies that can operate reliably outside the laboratory.
